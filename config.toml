@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'C.P.E.M. Nº 55 - PLOTTIER - NEUQUEN'
+theme = 'tale'
+
+[menu]
+  [[menu.main]]
+    identifier = "Equipo Directivo"
+    name = "Equipo Directivo"
+    title = "Equipo Directivo"
+    url = "/equipo-directivo/"
+    weight = 0
+  [[menu.main]]
+    identifier = "sectores"
+    name = "Sectores"
+    title = "Sectores"
+    url = "/sectores/"
+    weight = 0
