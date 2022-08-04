@@ -7,6 +7,6 @@ draft: false
 
 ## Directora: Arias, Juanita
 
-## Vicedirectora Turno Diurno: Gonzalez, Teresita
+## Vicedirectora Turno Diurno: Gonzalez, Teresita (suplente)
 
 ## Vicedirectora Turno Vespertino: Rojas, Florencia
