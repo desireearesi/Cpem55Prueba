@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.P.E.M. Nº 55 - PLOTTIER - NEUQUEN</title>
+    <link>http://example.org/</link>
+    <description>Recent content on C.P.E.M. Nº 55 - PLOTTIER - NEUQUEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 04 Aug 2022 15:34:04 -0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asesoria</title>
+      <link>http://example.org/sectores/asesoria/</link>
+      <pubDate>Thu, 04 Aug 2022 15:34:04 -0300</pubDate>
+      
+      <guid>http://example.org/sectores/asesoria/</guid>
+      <description>Asesoris Turno Mañana: Silvia Asesoria Turno Tarde: Bedouret, Marisol Asesoria Turno Vespertino: No se Asesoria Inclusión: Nose, Diana </description>
+    </item>
+    
+    <item>
+      <title>Preceptoria</title>
+      <link>http://example.org/sectores/preceptoria/</link>
+      <pubDate>Thu, 04 Aug 2022 15:33:27 -0300</pubDate>
+      
+      <guid>http://example.org/sectores/preceptoria/</guid>
+      <description>Preceptoría Turno Mañana Aca van los preceptores Preceptoría Turno Tarde Aca van los preceptores PReceptoría Turno Vespertino Aca van los preceptores </description>
+    </item>
+    
+    <item>
+      <title>Equipo Directivo</title>
+      <link>http://example.org/equipo-directivo/</link>
+      <pubDate>Thu, 04 Aug 2022 15:28:53 -0300</pubDate>
+      
+      <guid>http://example.org/equipo-directivo/</guid>
+      <description>Equipo Directivo C.P.E.M. Nº 55 Directora: Arias, Juanita Vicedirectora Turno Diurno: Gonzalez, Teresita (suplente) Vicedirectora Turno Vespertino: Rojas, Florencia </description>
+    </item>
+    
+  </channel>
+</rss>
